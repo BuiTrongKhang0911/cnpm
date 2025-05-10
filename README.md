@@ -6,7 +6,8 @@ Step 1: Clone the Project from GitHub
 
 Open a software like Visual Studio Code (VS Code) or any IDE of your choice.
 
-Open the terminal and run the following command to clone the project: git clone https://github.com/BuiTrongKhanh0911/cnpm.git
+Open the terminal and run the following command to clone the project: 
+git clone https://github.com/BuiTrongKhanh0911/cnpm.git
 
 
 
