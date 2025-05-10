@@ -1,0 +1,51 @@
+
+
+
+
+form {
+    margin: 0 15px;
+    border: 2px solid rgb(64, 212, 228);
+    border-radius: 5px;
+    text-align: left;
+}
+
+form p {
+    margin: 0;
+    padding: 10px;
+    background-color: rgba(64, 212, 228, 0.477);
+    border-bottom: 2px solid rgb(64, 212, 228);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.form-group input[type="text"], input[type="number"] {
+    margin: 10px;
+    font-size: 24px;
+}
+
+label {
+    font-size: 24px;
+    margin: 0 10px;
+}
+/*Ẩn nút tăng giảm.*/
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.form-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.form-group label {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.form-group input {
+    margin-left: 5px;
+}
