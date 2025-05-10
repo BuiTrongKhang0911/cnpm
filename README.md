@@ -1,5 +1,7 @@
 CNPM - Car Rental System
+
 How to Run the Project
+
 Step 1: Clone the Project from GitHub
 
 Open a software like Visual Studio Code (VS Code) or any IDE of your choice.
