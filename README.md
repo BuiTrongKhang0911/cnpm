@@ -40,6 +40,8 @@ Open a browser and navigate to:http://localhost/Project
 
 For open admin panel: http://localhost/Project/admin/dashboard.php
 
+Admin account: UserName: admin; Password: 123456
+
 You can now use the car rental system.
 
 Notes
