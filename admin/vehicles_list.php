@@ -150,7 +150,7 @@
                                                                         </form>
                                                                         <form method='POST' action='' style='display:inline-block;'>
                                                                             <input type='hidden' name='delete_id' value='" . htmlspecialchars($row['VehicleId']) . "'>
-                                                                            <button type='submit' class='btn' style='background-color: transparent;' onclick=\"return confirm('Are you sure you want to delete this brand?');\">
+                                                                            <button type='submit' class='btn' style='background-color: transparent;' onclick=\"return confirm('Are you sure you want to delete this vehicle?');\">
                                                                                 <i class='fa fa-close'></i>
                                                                             </button>
                                                                         </form>
