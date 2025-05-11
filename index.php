@@ -169,11 +169,11 @@
     <div class="hero-page">
         <div class="hero-headlines">
             <h1>
-                Easy And Fast Way To <b class="accent">Rent</b> A Car with GoFast.
+                Quick and Simple Car <b class="accent">Rental</b> with GoFast.
             </h1>
             <p>
-                We offer a wide extend of rental cars to suit needs. Wether
-                you're arranging a weekend travel or a business trip
+                We provide an extensive fleet of vehicles for every journey. Whether
+                you're planning a family vacation or a corporate meeting
             </p>
             <?php
                 if (!isset($_SESSION['userLoggedin'])) {
@@ -196,10 +196,10 @@
 
     <section class="about" id="about">
         <div class="about-container">
-            <h1>Your Premier Choice for Effortless Car Rentals</h1>
+            <h1>Your Trusted Partner for Seamless Car Rentals</h1>
             <p class="about-subline">
                 Experience the ultimate convenience with GoFast, where renting a
-                car is as easy as a few clicks.
+                car rental becomes a breeze with just a few taps.
             </p>
 
             <div class="about-info">
@@ -209,7 +209,7 @@
                     <h5>Efficiency</h5>
                     <p>
                         GoFast stands out for its streamlined rental process, ensuring
-                        customers can quickly and easily book their desired vehicles.
+                        customers can instantly reserve their chosen vehicles with ease.
                     </p>
                 </div>
 
@@ -219,7 +219,7 @@
                     <h5>Diverse Fleet</h5>
                     <p>
                         GoFast boasts a diverse fleet of well-maintained vehicles,
-                        catering to the varied needs and preferences of its customers.
+                        designed to meet every customer's unique requirements and style.
                     </p>
                 </div>
 
@@ -229,7 +229,7 @@
                     <h5>Exceptional Service</h5>
                     <p>
                         Beyond just providing vehicles, GoFast is committed to
-                        delivering exceptional customer service at every touchpoint.
+                        offering outstanding support throughout your entire journey.
                     </p>
                 </div>
             </div>

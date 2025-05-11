@@ -137,7 +137,7 @@
                                             <div class="stat-panel-title text-uppercase">Total Bookings</div>
                                         </div>
                                     </div>
-                                    <a href="registered_users.php" class="block-anchor panel-footer">
+                                    <a href="booking_status_new.php" class="block-anchor panel-footer">
                                         Full Detail &#160;
                                         <i class="fa fa-arrow-right"></i>
                                     </a>
@@ -151,7 +151,7 @@
                                             <div class="stat-panel-title text-uppercase">Listed Brands</div>
                                         </div>
                                     </div>
-                                    <a href="registered_users.php" class="block-anchor panel-footer">
+                                    <a href="manage_brands.php" class="block-anchor panel-footer">
                                         Full Detail &#160;
                                         <i class="fa fa-arrow-right"></i>
                                     </a>
