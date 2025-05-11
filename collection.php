@@ -267,7 +267,7 @@
 
         <div class="footer-bottom">
             <div>
-                <a href="/" class="footer-brand">Go<b class="accent">Fast</b></a>
+                <a href="index.php" class="footer-brand">Go<b class="accent">Fast</b></a>
             <div>
                 <h5 style="color: white;">Hotline: 1900 1111</h5>
                 <h5 style="color: white;">Email: contact@gofast.vn</h5>

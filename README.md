@@ -8,8 +8,6 @@ Open a software like Visual Studio Code (VS Code) or any IDE of your choice.
 
 Open the terminal and run the following command to clone the project: git clone https://github.com/BuiTrongKhanh0911/cnpm.git
 
-
-
 Step 2: Start XAMPP
 
 Open the XAMPP Control Panel. 
@@ -21,8 +19,6 @@ Step 3: Create the Database
 Access phpMyAdmin by clicking the Admin button next to the "Start" button for MySQL in the XAMPP Control Panel (this usually opens http://localhost/phpmyadmin).
 
 Create a new database with the name:car-rental
-
-
 
 Step 4: Import the Database
 
@@ -36,10 +32,13 @@ Click "Go" to import the data.
 
 Step 5: Run the Project
 
-Ensure the cnpm project folder is placed inside the htdocs directory of XAMPP (typically C:/xampp/htdocs on Windows).
+Ensure the Project folder is placed inside the htdocs directory of XAMPP (typically C:/xampp/htdocs on Windows).
 
-Open a browser and navigate to:http://localhost/cnpm
+Rename the main folder from cnpm-main to Project
 
+Open a browser and navigate to:http://localhost/Project
+
+For open admin panel: http://localhost/Project/admin/dashboard.php
 
 You can now use the car rental system.
 
