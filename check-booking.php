@@ -20,7 +20,7 @@ $message = $_POST['message'];
 $fromDateTime = "$fromDate $fromTime:00";
 $toDateTime = "$toDate $toTime:00";
 
-$sql="SELECT * FROM booking WHERE VehicleId=? AND NOT (ToDate <= ? OR FromDate >= ?)";
+$sql="SELECT * FROM booking WHERE VehicleId=? AND NOT (ToDate <= ? OR FromDate >= ?) AND (Status LIKE 'New' OR Status LIKE 'Confirm')";
 $stmt = $conn->prepare($sql);
 $stmt->bind_param("iss", $vehicleId, $fromDateTime, $toDateTime);
 $stmt->execute();
