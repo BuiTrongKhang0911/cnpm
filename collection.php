@@ -99,7 +99,7 @@
         <?php
             if (!isset($_SESSION['userLoggedin'])) {
                 echo '
-                    <button class="btn-2" onclick="showLoginForm() style="display: none;">
+                    <button class="btn-2" onclick="showLoginForm()">
                         Login
                     </button>
                 ';
