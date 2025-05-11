@@ -34,7 +34,7 @@ Step 5: Run the Project
 
 Ensure the Project folder is placed inside the htdocs directory of XAMPP (typically C:/xampp/htdocs on Windows).
 
-Rename the main folder from cnpm-main to Project
+Rename the main folder to Project
 
 Open a browser and navigate to:http://localhost/Project
 
